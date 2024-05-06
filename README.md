@@ -27,3 +27,8 @@ python  virusTotalReportAPI.py
 ```
 3. Follow the prompts to enter the URL you want to scan and your VirusTotal API key.
 4. After submitting the URL for scanning, the script will provide you with a scan ID. Press Enter to retrieve the scan report.
+
+## Features
+- Submit URLs for scanning.
+- Retrieve scan reports.
+- Saves scan results to a text file for further analysis.
